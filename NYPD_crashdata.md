@@ -7,6 +7,6 @@ author: Lauren McCarthy
 ---
 
 
-![Bar chart for Injuries by Borough](https://raw.githubusercontent.com/lm2221/visualization/crash_assets/injured.png)
+![Bar chart for Injuries by Borough](https://raw.githubusercontent.com/lm2221/visualizations/crash_assets/injured.png)
 
-![Bar chart for People Killed by Borough](https://raw.githubusercontent.com/lm2221/visualization/crash_assets/killed.png)
+![Bar chart for People Killed by Borough](https://raw.githubusercontent.com/lm2221/visualizations/crash_assets/killed.png)
